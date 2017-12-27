@@ -1,0 +1,14 @@
+Codeception PHP Testing Framework v2.3.7
+Powered by PHPUnit 6.4.4 by Sebastian Bergmann and contributors.
+
+[1mUnit Tests (4) [22m-----------------------------------------------------------------
+- [35;1mLockControlFilterTest:[39;22m Update with foreign actual lock action[32;1m✔[39;22m [35;1mLockControlFilterTest:[39;22m Update with foreign actual lock action [32m(0.03s)[39m
+- [35;1mLockControlFilterTest:[39;22m Update with own actual lock action[32;1m✔[39;22m [35;1mLockControlFilterTest:[39;22m Update with own actual lock action [32m(0.01s)[39m
+- [35;1mActionTest:[39;22m Unlock action[32;1m✔[39;22m [35;1mActionTest:[39;22m Unlock action [32m(0.01s)[39m
+- [35;1mActionTest:[39;22m Lock action[32;1m✔[39;22m [35;1mActionTest:[39;22m Lock action [32m(0.01s)[39m
+--------------------------------------------------------------------------------
+
+
+Time: 596 ms, Memory: 16.00MB
+
+[30;42mOK (4 tests, 15 assertions)[0m
